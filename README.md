@@ -6,7 +6,7 @@ Being a first draft, it uses an in-memory H2 database. Neither the schema, nor t
 
 ## Required tools and libraries
 
-1. [JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17)
+1. [JDK 17](https://www.oracle.com/java/technologies/downloads/#java17)
 2. At least [Maven 3.6.3](https://maven.apache.org/download.cgi)
 
 Install both the JDK (define the environment variable `JAVA_HOME` appropriately), then
