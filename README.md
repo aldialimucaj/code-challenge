@@ -6,7 +6,7 @@ Being a first draft, it uses an in-memory H2 database. Neither the schema, nor t
 
 ## Required tools and libraries
 
-1. [JDK 17](https://www.oracle.com/java/technologies/downloads/#JDK17)
+1. [JDK 17](https://www.oracle.com/java/technologies/downloads/#jdk17)
 2. At least [Maven 3.6.3](https://maven.apache.org/download.cgi)
 
 Install both the JDK (define the environment variable `JAVA_HOME` appropriately), then
@@ -17,8 +17,8 @@ Maven (define the environment variable `M2_HOME` appropriately).
 Execute in a shell
 
 ```shell
-git clone https://github.com/aldialimucaj/trading.git
-cd trading
+git clone https://github.com/aldialimucaj/code-challenge.git
+cd code-challenge
 mvn -U clean verify -DskipTests
 ```
 
